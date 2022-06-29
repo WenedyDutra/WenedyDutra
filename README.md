@@ -1,6 +1,6 @@
 
 
-- 🔭 Trabalho com desenvolvimento back-end .NET | C# e front end Angularjs 
+- 🔭 Trabalho com desenvolvimento back-end .NET | C# e front-end Angularjs 
 - 🌱 Estudando Typescript | Angular
 
 <div align="center">
